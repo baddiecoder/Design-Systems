@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="action_primary">#FF0B1012</color>
+    <color name="surface_default">#FFF3F0EC</color>
+    <color name="text_body">#FF000000</color>
+    <color name="brand_primary">#FF0B1012</color>
+    <color name="neutral_n100">#FF212325</color>
+    <color name="neutral_n200">#FFFFFFFF</color>
+    <color name="neutral_n300">#FF000000</color>
+    <color name="neutral_n400">#FFF3F0EC</color>
+    <color name="background_bg0">#FFF3F0EC</color>
+    <color name="background_bg1">#FF212325</color>
+    <color name="background_bg2">#FF0B1012</color>
+    <color name="text_text0">#FF000000</color>
+    <color name="text_text1">#FF212325</color>
+    <color name="text_text2">#FFFFFFFF</color>
+</resources>
