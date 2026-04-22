@@ -1,0 +1,15 @@
+/* shadcn/ui Theme — extracted from https://fluid.glass/ */
+/* Paste into your globals.css */
+
+@layer base {
+  :root {
+    --background: 34 23% 94%;
+    --foreground: 0 0% 0%;
+    --primary: 197 24% 6%;
+    --primary-foreground: 0 0% 100%;
+    --muted: 34 23% 94%;
+    --muted-foreground: 210 6% 14%;
+    --border: 34 23% 94%;
+    --radius: 16px;
+  }
+}

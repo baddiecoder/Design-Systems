@@ -1,0 +1,178 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "version": 3,
+  "settings": {
+    "color": {
+      "palette": [
+        {
+          "slug": "primary",
+          "color": "#0b1012",
+          "name": "Primary"
+        },
+        {
+          "slug": "neutral-1",
+          "color": "#212325",
+          "name": "Neutral 1"
+        },
+        {
+          "slug": "neutral-2",
+          "color": "#ffffff",
+          "name": "Neutral 2"
+        },
+        {
+          "slug": "neutral-3",
+          "color": "#000000",
+          "name": "Neutral 3"
+        },
+        {
+          "slug": "neutral-4",
+          "color": "#f3f0ec",
+          "name": "Neutral 4"
+        },
+        {
+          "slug": "bg-f3f0ec",
+          "color": "#f3f0ec",
+          "name": "Background #f3f0ec"
+        },
+        {
+          "slug": "bg-212325",
+          "color": "#212325",
+          "name": "Background #212325"
+        },
+        {
+          "slug": "bg-0b1012",
+          "color": "#0b1012",
+          "name": "Background #0b1012"
+        }
+      ],
+      "gradients": [
+        {
+          "slug": "gradient-1",
+          "gradient": "linear-gradient(rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0.2))",
+          "name": "Gradient 1"
+        }
+      ]
+    },
+    "typography": {
+      "fontFamilies": [
+        {
+          "fontFamily": "Aeonik Pro",
+          "slug": "aeonik-pro",
+          "name": "Aeonik Pro"
+        },
+        {
+          "fontFamily": "Aeonik Mono",
+          "slug": "aeonik-mono",
+          "name": "Aeonik Mono"
+        },
+        {
+          "fontFamily": "Times New Roman",
+          "slug": "times-new-roman",
+          "name": "Times New Roman"
+        }
+      ],
+      "fontSizes": [
+        {
+          "size": "51.2px",
+          "slug": "size-51.2",
+          "name": "51.2px"
+        },
+        {
+          "size": "32px",
+          "slug": "size-32",
+          "name": "32px"
+        },
+        {
+          "size": "25.6px",
+          "slug": "size-25.6",
+          "name": "25.6px"
+        },
+        {
+          "size": "19.2px",
+          "slug": "size-19.2",
+          "name": "19.2px"
+        },
+        {
+          "size": "16px",
+          "slug": "size-16",
+          "name": "16px"
+        },
+        {
+          "size": "14.4px",
+          "slug": "size-14.4",
+          "name": "14.4px"
+        },
+        {
+          "size": "12.8px",
+          "slug": "size-12.8",
+          "name": "12.8px"
+        },
+        {
+          "size": "11.2px",
+          "slug": "size-11.2",
+          "name": "11.2px"
+        }
+      ]
+    },
+    "spacing": {
+      "spacingSizes": [
+        {
+          "size": "2px",
+          "slug": "spacing-2",
+          "name": "2px"
+        },
+        {
+          "size": "24px",
+          "slug": "spacing-24",
+          "name": "24px"
+        },
+        {
+          "size": "48px",
+          "slug": "spacing-48",
+          "name": "48px"
+        },
+        {
+          "size": "56px",
+          "slug": "spacing-56",
+          "name": "56px"
+        },
+        {
+          "size": "64px",
+          "slug": "spacing-64",
+          "name": "64px"
+        },
+        {
+          "size": "72px",
+          "slug": "spacing-72",
+          "name": "72px"
+        },
+        {
+          "size": "96px",
+          "slug": "spacing-96",
+          "name": "96px"
+        },
+        {
+          "size": "120px",
+          "slug": "spacing-120",
+          "name": "120px"
+        }
+      ]
+    },
+    "layout": {
+      "contentSize": "1200px",
+      "wideSize": "1400px"
+    }
+  },
+  "styles": {
+    "color": {
+      "background": "#f3f0ec",
+      "text": "#000000"
+    },
+    "typography": {
+      "fontSize": "9.6px",
+      "lineHeight": "8px",
+      "fontFamily": "Aeonik Pro"
+    },
+    "spacing": {}
+  }
+}
