@@ -1,0 +1,29 @@
+/*
+Theme Name: designlang extracted theme
+Theme URI: https://github.com/Manavarya09/design-extract
+Description: Block theme generated from https://fluid.glass/ by designlang v7.0.0
+Version: 1.0.0
+Author: designlang
+License: MIT
+Text Domain: designlang-theme
+*/
+
+:root {
+  --action-primary: #0b1012;
+  --surface-default: #f3f0ec;
+  --text-body: #000000;
+  --spacing-s0: 2px;
+  --spacing-s1: 24px;
+  --spacing-s2: 48px;
+  --spacing-s3: 56px;
+  --spacing-s4: 64px;
+  --spacing-s5: 72px;
+  --spacing-s6: 96px;
+  --spacing-s7: 120px;
+  --spacing-s8: 128px;
+  --spacing-s9: 133px;
+  --spacing-s10: 144px;
+  --spacing-s11: 262px;
+  --spacing-s12: 360px;
+  --spacing-s13: 367px;
+}
